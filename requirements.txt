@@ -6,6 +6,7 @@ langchain
 requests
 langchain-core
 langchain_openai
+langchain_google_genai
 openai
 langchain_community
 langchain_experimental
